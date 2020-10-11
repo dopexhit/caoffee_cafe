@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403341151721",
+    "firebase_url": "https://my-cafe-8beef.firebaseio.com",
+    "project_id": "my-cafe-8beef",
+    "storage_bucket": "my-cafe-8beef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403341151721:android:8974f422861dbd341c4f78",
+        "android_client_info": {
+          "package_name": "com.example.caoffee_cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403341151721-isihlfpk3fk9db7as5nl5ds0u7aifq60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caoffee_cafe",
+            "certificate_hash": "fa519c5e046e1bde86f8a5d65900ada2a14ce662"
+          }
+        },
+        {
+          "client_id": "403341151721-ojp3e6cf8jn0se3ulct95k4i5nmj8dkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXNqX0kH1x9b5qmLu6D4WCvPmQIsHdsU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403341151721-ojp3e6cf8jn0se3ulct95k4i5nmj8dkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
