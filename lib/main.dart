@@ -11,6 +11,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
+  //test comment
   @override
   Widget build(BuildContext context) {
     return StreamProvider<CustomUser>.value(
